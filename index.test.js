@@ -9,3 +9,7 @@ test('adds 1 + 3 to equal 4', () => {
     expect(add(1, 3)).toBe(4);
 });
 
+test('adds 1 + 4 to equal 5', () => {
+    expect(add(1, 4)).toBe(5);
+});
+
